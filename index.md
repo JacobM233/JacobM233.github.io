@@ -12,4 +12,4 @@ Lab 10, Part 1:
 At first this lab seemed a little annoying to do but after doing it I really liked it. The lab taught me about 2D vectors and how to interate through them. The idea of how to iterate through them was a little confusing at first but i was able to understand eventually and now it seems so simple.
 
 Lab 10, Part 2:
-I also liked the second part for lab 10 because of how it broke down the 2D vector with functions for specific things in the vector. The second part made it easier to underdstand using and interating 2D vectors because it seperated the iteration of the first and second vectors. I also liked it because after doing part 1 it was easier to understand what I needed to do for this part.
+I also liked the second part for lab 10 because of how it broke down the 2D vector with functions for specific things in the vector. The second part made it easier to underdstand using and interating 2D vectors because it seperated the iteration of the first and second vectors. I also liked it because after doing part 1 it was easier to understand what I needed to do for this part. 
